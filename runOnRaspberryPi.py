@@ -12,6 +12,7 @@ ENB = 12	#//L298 ENB
 
 IN1 = 19	#//Motor1 out1
 IN2 = 16	#//Motor1 out2
+
 IN3 = 21	#//Motor2 out1
 IN4 = 26	#//Motor2 out2
 
