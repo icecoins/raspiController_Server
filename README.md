@@ -1,5 +1,7 @@
 # runOnRapberryPi
-#！请使用python3 runOnRapberryPi.py 命令打开本文件，使用python2打开将不能正常工作。
+#！请使用 python3 runOnRapberryPi.py (或 python3 NewVersion.py ) 命令打开文件，使用python2打开将不能正常工作。
+
+（NewVersion.py中对控制电机的线程进行了合并，未经测试，注意，未经测试）
 
 在使用这个文件之前，请把树莓派与控制电机的引脚按照文件中的定义连接，
 
@@ -12,6 +14,8 @@
 请自行修改绑定的端口，与安卓手机上将使用的端口保持一致即可。
 
 本项目中的默认使用了mjpg-streamer产生视频流，在启动本文件时上述软件会被调用。
+
+若需要自定义视频流参数，请自行修改代码。
 
 若使用其他软件，请自行修改代码。
 
