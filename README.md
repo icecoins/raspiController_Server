@@ -1,7 +1,7 @@
 # runOnRapberryPi
 #！请使用 python3 runOnRapberryPi.py (或 python3 NewVersion.py ) 命令打开文件，使用python2打开将不能正常工作。
 
-建议与特制安卓端一起使用https://github.com/woyaogtmdttkp/runOnAndroid
+建议与特制安卓端一起使用https://github.com/icecoins/runOnAndroid
 （NewVersion.py中对控制电机的线程进行了合并，未经测试，注意，未经测试）
 
 在使用这个文件之前，请把树莓派与控制电机的引脚按照文件中的定义连接，
