@@ -1,4 +1,4 @@
-# runOnRapberryPi
+# raspiController_Server
 #！请使用 python3 runOnRapberryPi.py (或 python3 NewVersion.py ) 命令打开文件，使用python2打开将不能正常工作。
 
 （NewVersion.py中对控制电机的线程进行了合并，未经测试，注意，未经测试
